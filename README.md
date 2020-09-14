@@ -13,9 +13,9 @@ cd runescape-linux-installer
 
 ### What this script does:
 
--adds runescape gpg key and repo to apt
--updates your apt sources
--installs runescape
+- adds runescape gpg key and repo to apt
+- updates your apt sources
+- installs runescape
 
 
 > This script is not associated with or made by Jagex Ltd.
