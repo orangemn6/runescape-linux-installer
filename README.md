@@ -4,8 +4,7 @@
 this script is an installer for runescape an mmorpg game made by Jagex
 
 
-{: .box-error}
-**Warning:** This is made for debian based systems with apt.
+**_this was made for use on debian based systems and will only work on debian based systems_**
 
 
 ### How to use this script:
