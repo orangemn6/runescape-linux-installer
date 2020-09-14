@@ -3,6 +3,11 @@
 
 this script is an installer for runescape an mmorpg game made by Jagex
 
+
+{: .box-warning}
+**Warning:** This is made for debian based systems with apt.
+
+
 ### How to use this script:
 
 ~~~ 
