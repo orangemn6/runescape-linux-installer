@@ -11,3 +11,4 @@ cd runescape-linux-installer
 ./install.sh
 ~~~ 
 
+> This script is not associated with or made by Jagex Ltd.
